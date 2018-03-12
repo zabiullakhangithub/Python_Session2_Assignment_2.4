@@ -1,0 +1,16 @@
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:21:59) [MSC v.1900 32 bit (Intel)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 6.2.1 -- An enhanced Interactive Python.
+
+runfile('C:/Users/zabiulla.khan/Assignments/Assignment 2.4.py', wdir='C:/Users/zabiulla.khan/Assignments')
+
+Enter side 1 : 15
+
+Enter side 2 : 9
+
+Enter side 3 : 7
+Side 1 is 15.0
+Side 2 is 9.0
+Side 3 is 7.0
+The area of the triangle is 20.69
